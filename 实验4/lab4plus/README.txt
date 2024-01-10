@@ -1,0 +1,2 @@
+1是用了BED
+2是template加了B且只有NT加了E
